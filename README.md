@@ -42,7 +42,7 @@ Simulação de tentativa de autenticação na aplicação DVWA (*Damn Vulnerable
    ![Certificação do Teste](<Brute Force/certificando rteste.jpeg>)
 
    | Conexão estabelecida com sucesso |
-   ![Conexão Completa](<images/conexao completa.jpeg>) |
+   ![Conexão Completa](<Brute Force/conexao completa.jpeg>) |
 
 ---
 
