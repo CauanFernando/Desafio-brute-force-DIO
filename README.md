@@ -25,7 +25,9 @@ Antes de iniciar o ataque, foi verificada a comunicação entre as máquinas e a
 | :--- | :--- |
 | Verificação de portas abertas e serviços | ![Varredura](<Brute Force/tentando conexão com metasploitable e verificando portas abertas.jpeg>) |
 | Diagnóstico e teste de falha de conexão | ![Teste Falho](<Brute Force/teste de conexão (falho).jpeg>) |
-| Conexão estabelecida com sucesso | ![Conexão Completa](<Brute Force/conexao completa.jpeg>) |
+
+| Ataque com Medusa:** Automatização do teste de senhas com base em dicionário. |
+   ![Executando Medusa](<Brute Force/executando medusa e testando senha.jpeg>) |
 
 ---
 
@@ -35,12 +37,12 @@ Simulação de tentativa de autenticação na aplicação DVWA (*Damn Vulnerable
 1. **Tentativa manual:** Demonstração do erro com credenciais incorretas.
    ![Login Incorreto](<Brute Force/login incorreto dwva.jpeg>)
 
-2. **Ataque com Medusa:** Automatização do teste de senhas com base em dicionário.
-   ![Executando Medusa](<Brute Force/executando medusa e testando senha.jpeg>)
-
-3. **Validação do Acesso:** Confirmação de login com as credenciais identificadas.
+2. **Validação do Acesso:** Confirmação de login com as credenciais identificadas.
    ![Login com Sucesso](<Brute Force/testando com senha correta.jpeg>)
    ![Certificação do Teste](<Brute Force/certificando rteste.jpeg>)
+
+   | Conexão estabelecida com sucesso |
+   ![Conexão Completa](<images/conexao completa.jpeg>) |
 
 ---
 
