@@ -36,10 +36,10 @@ Simulação de tentativa de autenticação na aplicação DVWA (*Damn Vulnerable
 
 1. **Tentativa manual:** Demonstração do erro com credenciais incorretas.
    ![Login Incorreto](<Brute Force/login incorreto dwva.jpeg>)
-
-2. **Validação do Acesso:** Confirmação de login com as credenciais identificadas.
-   ![Login com Sucesso](<Brute Force/testando com senha correta.jpeg>)
    ![Certificação do Teste](<Brute Force/certificando rteste.jpeg>)
+   
+3. **Validação do Acesso:** Confirmação de login com as credenciais identificadas.
+   ![Login com Sucesso](<Brute Force/testando com senha correta.jpeg>) 
 
    | Conexão estabelecida com sucesso |
    ![Conexão Completa](<Brute Force/conexao completa.jpeg>) |
